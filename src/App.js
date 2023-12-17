@@ -5,6 +5,7 @@ import Portfolio from "./components/Portfolio";
 import SozialLinks from "./components/SozialLinks";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
+import BottomSpacer from "./components/BottomSpacer";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
     <Portfolio />
     <Experience />
     <Contact />
+    <BottomSpacer />
 
     <SozialLinks />
    </div>
