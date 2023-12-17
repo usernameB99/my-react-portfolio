@@ -5,6 +5,7 @@ import needs from '../assets/portfolio/needs.JPG'
 import rpsExercise from '../assets/portfolio/rpsExercise.JPG'
 import pkmn from '../assets/portfolio/pkmn.JPG'
 import portfolioV1 from '../assets/portfolio/portfolioV1.JPG'
+import jdbc from '../assets/portfolio/jdbc.JPG'
 
 
 const Portfolio = () => {
@@ -13,43 +14,49 @@ const Portfolio = () => {
         {
             id: 1,
             src: reactPortfolio,
-            demoLink: 'https://google.com',
-            codeLink: 'https://google.com',
+            demoLink: 'https://usernameb99.github.io/my-react-portfolio/',
+            codeLink: 'https://github.com/usernameB99/my-react-portfolio',
         },
         {
             id: 2,
             src: needs,
-            demoLink: 'https://google.com',
-            codeLink: 'https://google.com',
+            demoLink: 'https://github.com/usernameB99/needs_project',
+            codeLink: 'https://github.com/usernameB99/needs_project',
         },
         {
             id: 3,
             src: DgraphReactApp,
-            demoLink: 'https://google.com',
-            codeLink: 'https://google.com',
+            demoLink: 'https://github.com/usernameB99/dgrapTest',
+            codeLink: 'https://github.com/usernameB99/dgrapTest',
         },
         {
             id: 4,
             src: rpsExercise,
-            demoLink: 'https://google.com',
-            codeLink: 'https://google.com',
+            demoLink: 'https://usernameb99.github.io/RockPaperScissors/',
+            codeLink: 'https://github.com/usernameB99/RockPaperScissors',
+        },
+        {
+            id: 5,
+            src: jdbc,
+            demoLink: 'https://github.com/usernameB99/JDBC',
+            codeLink: 'https://github.com/usernameB99/JDBC',
         },
         {
             id: 5,
             src: pkmn,
-            demoLink: 'https://google.com',
-            codeLink: 'https://google.com',
+            demoLink: 'https://github.com/usernameB99/Pokemon',
+            codeLink: 'https://github.com/usernameB99/Pokemon',
         },
         {
             id: 6,
             src: portfolioV1,
-            demoLink: 'https://google.com',
-            codeLink: 'https://google.com',
+            demoLink: 'https://usernameb99.github.io/',
+            codeLink: 'https://github.com/usernameB99/usernameB99.github.io',
         },
     ]
 
   return (
-    <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen' >
+    <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full text-white min-h-screen' >  {/* min-h-screen INSTEAD OF md:h-screen */}
 
             <div className="invisible h-16 md:h-24" aria-hidden="true"></div>
 
