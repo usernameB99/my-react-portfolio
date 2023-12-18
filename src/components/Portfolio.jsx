@@ -14,7 +14,7 @@ const Portfolio = () => {
         {
             id: 1,
             src: reactPortfolio,
-            demoLink: 'https://usernameb99.github.io/my-react-portfolio/',
+            demoLink: 'https://usernameb99.github.io/portfolio/',
             codeLink: 'https://github.com/usernameB99/my-react-portfolio',
         },
         {
@@ -50,7 +50,7 @@ const Portfolio = () => {
         {
             id: 6,
             src: portfolioV1,
-            demoLink: 'https://usernameb99.github.io/',
+            demoLink: 'https://usernameb99.github.io/first-portfolio/',
             codeLink: 'https://github.com/usernameB99/usernameB99.github.io',
         },
     ]
