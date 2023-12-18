@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.52427899.css",
-    "main.js": "/my-react-portfolio/static/js/main.2d6ef772.js",
+    "main.js": "/my-react-portfolio/static/js/main.2d17610e.js",
     "static/media/pkmn.JPG": "/my-react-portfolio/static/media/pkmn.5fd85849a153240c09ce.JPG",
     "static/media/heroImage.jpg": "/my-react-portfolio/static/media/heroImage.e3caf6619978e59907e2.jpg",
     "static/media/mysql.png": "/my-react-portfolio/static/media/mysql.eb4ad2df211961119205.png",
     "static/media/portfolioV1.JPG": "/my-react-portfolio/static/media/portfolioV1.a2f9f8e585343881fa25.JPG",
+    "static/media/jdbc.JPG": "/my-react-portfolio/static/media/jdbc.b49e40c02f5b99acb8bd.JPG",
     "static/media/DgraphReactApp.JPG": "/my-react-portfolio/static/media/DgraphReactApp.0dea7ea77d63e4b4eded.JPG",
     "static/media/needs.JPG": "/my-react-portfolio/static/media/needs.bdfd2251499836d0562e.JPG",
     "static/media/rpsExercise.JPG": "/my-react-portfolio/static/media/rpsExercise.fd2ff12a284296b70213.JPG",
@@ -21,10 +22,10 @@
     "static/media/javascript.png": "/my-react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-react-portfolio/index.html",
     "main.52427899.css.map": "/my-react-portfolio/static/css/main.52427899.css.map",
-    "main.2d6ef772.js.map": "/my-react-portfolio/static/js/main.2d6ef772.js.map"
+    "main.2d17610e.js.map": "/my-react-portfolio/static/js/main.2d17610e.js.map"
   },
   "entrypoints": [
     "static/css/main.52427899.css",
-    "static/js/main.2d6ef772.js"
+    "static/js/main.2d17610e.js"
   ]
 }
