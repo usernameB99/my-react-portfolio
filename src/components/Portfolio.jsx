@@ -31,8 +31,8 @@ const Portfolio = () => {
     {
       id: 3,
       src: DgraphReactApp,
-      demoLink: "https://usernameb99.github.io/dgrapTest",
-      codeLink: "https://github.com/usernameB99/dgrapTest",
+      demoLink: "https://usernameb99.github.io/dgraphTest",
+      codeLink: "https://github.com/usernameB99/dgraphTest",
       hoverText: "Small frontend with graph databese connection i made for my presentation"
     },
     {
