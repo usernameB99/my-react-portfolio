@@ -20,6 +20,7 @@ const Portfolio = () => {
       src: reactPortfolio,
       demoLink: "https://usernameb99.github.io/portfolio/",
       codeLink: "https://github.com/usernameB99/my-react-portfolio",
+      hoverText: "My current portfolio you were looking at right now :)"
     },
     {
       id: 2,
@@ -32,31 +33,35 @@ const Portfolio = () => {
       src: DgraphReactApp,
       demoLink: "https://github.com/usernameB99/dgrapTest",
       codeLink: "https://github.com/usernameB99/dgrapTest",
+      hoverText: "Small frontend with graph databese connection i made for my presentation"
     },
     {
       id: 4,
       src: rpsExercise,
       demoLink: "https://usernameb99.github.io/RockPaperScissors/",
       codeLink: "https://github.com/usernameB99/RockPaperScissors",
+      hoverText: "Rock paper scissors in JavaScript"
     },
     {
       id: 5,
       src: jdbc,
       demoLink: "https://github.com/usernameB99/JDBC",
       codeLink: "https://github.com/usernameB99/JDBC",
+      hoverText: "Java personal management with dao classes & data base connection "
     },
     {
       id: 5,
       src: pkmn,
       demoLink: "https://github.com/usernameB99/Pokemon",
       codeLink: "https://github.com/usernameB99/Pokemon",
+      hoverText: "Pokemon arena battle in Java"
     },
     {
       id: 6,
       src: portfolioV1,
       demoLink: "https://usernameb99.github.io/first-portfolio/",
       codeLink: "https://github.com/usernameB99/usernameB99.github.io",
-      hoverText: "Individueller Hovertext 1",
+      hoverText: "My first portfolio"
     },
   ];
 

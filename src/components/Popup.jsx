@@ -7,7 +7,7 @@ const Popup = ({ onClose }) => {
       className="min-w-screen backdrop-blur-sm h-screen animated fadeIn faster fixed left-0 top-0 flex justify-center items-center inset-0 z-50 outline-none focus:outline-none"
       id="modal-id"
     >
-      <div className="w-full max-w-sm p-5 relative mx-auto my-auto rounded-xl shadow-lg bg-black border-4 border-cyan-400">
+      <div className="w-full max-w-xs p-5 relative mx-auto my-auto rounded-xl shadow-lg bg-black border-4 border-cyan-400">
         <div>
 
           <div className="text-center p-5 flex-auto justify-center items-center">
