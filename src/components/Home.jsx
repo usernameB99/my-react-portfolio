@@ -13,10 +13,11 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-6xl font-bold text-white">I'm a Junior Software Developer</h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Welcome! I'm Berni. My training as a Junior Developer has sparked a deep 
-          passion for frontend development in me. In this portfolio, 
-          I share my enthusiasm for development and present a selection 
-          of my work. Enjoy browsing!
+          Hello, I'm Berni!
+          My training as a Junior Developer has sparked a deep passion for software development in me. <br />
+          In this portfolio, I share my progress and experience.
+          <br />
+          Enjoy browsing!
           </p>
 
           <div>
