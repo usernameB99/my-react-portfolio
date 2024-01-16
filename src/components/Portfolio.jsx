@@ -1,13 +1,15 @@
 import React from "react";
-import reactPortfolio from "../assets/portfolio/reactPortfolio.jpg";
-import DgraphReactApp from "../assets/portfolio/DgraphReactApp.jpg";
-import needs from "../assets/portfolio/needs.jpg";
-import rpsExercise from "../assets/portfolio/rpsExercise.jpg";
-import pkmn from "../assets/portfolio/pkmn.jpg";
+import reactPortfolio from "../assets/portfolio/reactPortfolio.JPG";
+import DgraphReactApp from "../assets/portfolio/DgraphReactApp.JPG";
+import needs from "../assets/portfolio/needs.JPG";
+import rpsExercise from "../assets/portfolio/rpsExercise.JPG";
+import pkmn from "../assets/portfolio/pkmn.JPG";
 import portfolioV1 from "../assets/portfolio/portfolioV1.JPG";
-import jdbc from "../assets/portfolio/jdbc.jpg";
+import jdbc from "../assets/portfolio/jdbc.JPG";
+import LiquidCalculator from "../assets/portfolio/LiquidCalculator.jpg";
 import Popup from './Popup'
 import { useState } from "react";
+
 
 const Portfolio = () => {
 
@@ -15,6 +17,13 @@ const Portfolio = () => {
 
 
   const portfolios = [
+    {
+      id: 0,
+      src: LiquidCalculator,
+      demoLink: "https://usernameb99.github.io/liquidCalculator/",
+      codeLink: "https://github.com/usernameB99/liquidCalculator",
+      hoverText: "E-Liquid-Calculator I've made with JavaScript"
+    },
     {
       id: 1,
       src: reactPortfolio,
