@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a933b3f4.css",
-    "main.js": "/portfolio/static/js/main.2680a7b7.js",
+    "main.js": "/portfolio/static/js/main.ae32997e.js",
     "static/media/catTyping.gif": "/portfolio/static/media/catTyping.cc36d032e2b786c0713b.gif",
-    "static/media/pkmn.jpg": "/portfolio/static/media/pkmn.32229ea7988defbbf8ae.jpg",
-    "static/media/rpsExercise.jpg": "/portfolio/static/media/rpsExercise.5a36a602280ead196efc.jpg",
-    "static/media/reactPortfolio.jpg": "/portfolio/static/media/reactPortfolio.1cce5a91c4675cafd250.jpg",
-    "static/media/jdbc.jpg": "/portfolio/static/media/jdbc.5f54fce93ed0f5282351.jpg",
-    "static/media/needs.jpg": "/portfolio/static/media/needs.ed7b608d61849d553bcc.jpg",
+    "static/media/pkmn.JPG": "/portfolio/static/media/pkmn.32229ea7988defbbf8ae.JPG",
+    "static/media/rpsExercise.JPG": "/portfolio/static/media/rpsExercise.5a36a602280ead196efc.JPG",
+    "static/media/reactPortfolio.JPG": "/portfolio/static/media/reactPortfolio.1cce5a91c4675cafd250.JPG",
+    "static/media/LiquidCalculator.jpg": "/portfolio/static/media/LiquidCalculator.8b9610dda873d95f7fec.jpg",
+    "static/media/jdbc.JPG": "/portfolio/static/media/jdbc.5f54fce93ed0f5282351.JPG",
+    "static/media/needs.JPG": "/portfolio/static/media/needs.ed7b608d61849d553bcc.JPG",
     "static/media/heroImage.jpg": "/portfolio/static/media/heroImage.e3caf6619978e59907e2.jpg",
-    "static/media/DgraphReactApp.jpg": "/portfolio/static/media/DgraphReactApp.e3bc3645eb131dded84b.jpg",
+    "static/media/DgraphReactApp.JPG": "/portfolio/static/media/DgraphReactApp.e3bc3645eb131dded84b.JPG",
     "static/media/mysql.png": "/portfolio/static/media/mysql.eb4ad2df211961119205.png",
     "static/media/portfolioV1.JPG": "/portfolio/static/media/portfolioV1.a2f9f8e585343881fa25.JPG",
     "static/media/java.png": "/portfolio/static/media/java.3bffe827c307931b5682.png",
@@ -23,10 +24,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.a933b3f4.css.map": "/portfolio/static/css/main.a933b3f4.css.map",
-    "main.2680a7b7.js.map": "/portfolio/static/js/main.2680a7b7.js.map"
+    "main.ae32997e.js.map": "/portfolio/static/js/main.ae32997e.js.map"
   },
   "entrypoints": [
     "static/css/main.a933b3f4.css",
-    "static/js/main.2680a7b7.js"
+    "static/js/main.ae32997e.js"
   ]
 }
