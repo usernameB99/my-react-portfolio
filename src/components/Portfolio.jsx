@@ -7,6 +7,7 @@ import pkmn from "../assets/portfolio/pkmn.JPG";
 import portfolioV1 from "../assets/portfolio/portfolioV1.JPG";
 import jdbc from "../assets/portfolio/jdbc.JPG";
 import LiquidCalculator from "../assets/portfolio/LiquidCalculator.jpg";
+import invoiceGenerator from "../assets/portfolio/invoiceGenerator.jpg";
 import Popup from './Popup'
 import { useState } from "react";
 
@@ -47,27 +48,34 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: rpsExercise,
-      demoLink: "https://usernameb99.github.io/RockPaperScissors/",
-      codeLink: "https://github.com/usernameB99/RockPaperScissors",
-      hoverText: "Rock paper scissors in JavaScript"
+      src: invoiceGenerator,
+      demoLink: "https://usernameb99.github.io/Invoice_Generator/",
+      codeLink: "https://github.com/usernameB99/Invoice_Generator",
+      hoverText: "Invoice generator with JavaScript"
     },
     {
       id: 5,
+      src: rpsExercise,
+      demoLink: "https://usernameb99.github.io/RockPaperScissors/",
+      codeLink: "https://github.com/usernameB99/RockPaperScissors",
+      hoverText: "Rock paper scissors with JavaScript"
+    },
+    {
+      id: 6,
       src: jdbc,
       demoLink: "https://github.com/usernameB99/JDBC",
       codeLink: "https://github.com/usernameB99/JDBC",
       hoverText: "Java personal management with dao classes & data base connection "
     },
     {
-      id: 5,
+      id: 7,
       src: pkmn,
       demoLink: "https://github.com/usernameB99/Pokemon",
       codeLink: "https://github.com/usernameB99/Pokemon",
       hoverText: "Pokemon arena battle in Java with csv reader"
     },
     {
-      id: 6,
+      id: 8,
       src: portfolioV1,
       demoLink: "https://usernameb99.github.io/first-portfolio/",
       codeLink: "https://github.com/usernameB99/usernameB99.github.io",
