@@ -14,11 +14,20 @@ const Home = () => {
           <h2 className="text-4xl sm:text-6xl font-bold text-white">I'm a passionate Software Developer</h2>
           <p className="text-gray-500 py-4 max-w-md">
           Hello, I'm Berni!
+          I am a passionate developer from Austria. <br />
+          In this portfolio, I share some of my progress and experience.
+          <br />
+          Enjoy browsing! 
+          </p>
+
+       {/*<p className="text-gray-500 py-4 max-w-md">
+          Hello, I'm Berni!
           My training as a Junior Developer has sparked a deep passion for software development in me. <br />
           In this portfolio, I share my progress and experience.
           <br />
           Enjoy browsing!
-          </p>
+          </p> */}
+
 
           <div>
             <Link to='portfolio' smooth duration={500} className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
