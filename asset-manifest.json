@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a933b3f4.css",
-    "main.js": "/portfolio/static/js/main.2c9fc686.js",
+    "main.css": "/portfolio/static/css/main.cc6587aa.css",
+    "main.js": "/portfolio/static/js/main.75eb79af.js",
     "static/media/catTyping.gif": "/portfolio/static/media/catTyping.cc36d032e2b786c0713b.gif",
     "static/media/pkmn.JPG": "/portfolio/static/media/pkmn.32229ea7988defbbf8ae.JPG",
     "static/media/apartmentSale.jpg": "/portfolio/static/media/apartmentSale.53af1c75676f5e44ede1.jpg",
@@ -19,6 +19,8 @@
     "static/media/cyberStore.jpg": "/portfolio/static/media/cyberStore.cc50e08ebdebf77a8b90.jpg",
     "static/media/invoiceGenerator.jpg": "/portfolio/static/media/invoiceGenerator.80350d968c28d9059638.jpg",
     "static/media/java.png": "/portfolio/static/media/java.3bffe827c307931b5682.png",
+    "static/media/WordPress.png": "/portfolio/static/media/WordPress.ff9ed513fbce05a45d67.png",
+    "static/media/spring.png": "/portfolio/static/media/spring.74b3b4240f84e0aaee13.png",
     "static/media/inputSaver.jpg": "/portfolio/static/media/inputSaver.a08b69ddcfca0e4da8a9.jpg",
     "static/media/addToCart.jpg": "/portfolio/static/media/addToCart.812cc8741d76eb94958f.jpg",
     "static/media/php.png": "/portfolio/static/media/php.cde517093a66650098c9.png",
@@ -30,11 +32,11 @@
     "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.a933b3f4.css.map": "/portfolio/static/css/main.a933b3f4.css.map",
-    "main.2c9fc686.js.map": "/portfolio/static/js/main.2c9fc686.js.map"
+    "main.cc6587aa.css.map": "/portfolio/static/css/main.cc6587aa.css.map",
+    "main.75eb79af.js.map": "/portfolio/static/js/main.75eb79af.js.map"
   },
   "entrypoints": [
-    "static/css/main.a933b3f4.css",
-    "static/js/main.2c9fc686.js"
+    "static/css/main.cc6587aa.css",
+    "static/js/main.75eb79af.js"
   ]
 }
