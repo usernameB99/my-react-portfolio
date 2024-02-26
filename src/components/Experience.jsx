@@ -10,6 +10,8 @@ import dgraph from "../assets/dgraph.png";
 import java from "../assets/java.png";
 import php from "../assets/php.png";
 import mysql from "../assets/mysql.png";
+import spring from "../assets/spring.png";
+import WordPress from "../assets/WordPress.png";
 
 const Experience = () => {
   const techs = [
@@ -75,8 +77,20 @@ const Experience = () => {
     },
     {
       id: 11,
+      src: spring,
+      title: "Spring Boot",
+      style: "shadow-lime-400",
+    },
+    {
+      id: 12,
       src: github,
       title: "Github",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 13,
+      src: WordPress,
+      title: "Word Press",
       style: "shadow-gray-400",
     },
   ];
