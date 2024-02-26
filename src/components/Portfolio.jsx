@@ -121,14 +121,14 @@ const Portfolio = () => {
       demoLink: "https://github.com/usernameB99/Pokemon",
       codeLink: "https://github.com/usernameB99/Pokemon",
       hoverText: "Pokemon arena battle in Java with csv reader"
-    },
+    }/* ,
     {
       id: 20,
       src: portfolioV1,
       demoLink: "https://usernameb99.github.io/first-portfolio/",
       codeLink: "https://github.com/usernameB99/usernameB99.github.io",
       hoverText: "My first portfolio"
-    },
+    }, */
   ];
 
   const handleClick = (link) => {
