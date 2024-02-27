@@ -55,7 +55,7 @@ const Portfolio = () => {
     {
       id: 11,
       src: inputSaver,
-      demoLink: "",
+      demoLink: "https://addons.mozilla.org/de/firefox/addon/link-note-saver/",
       codeLink: "https://github.com/usernameB99/browser-extension-leads-tracker",
       hoverText: "Browser Extension | Link Saver | save current tab & notes + delete | Local Storage"
     },

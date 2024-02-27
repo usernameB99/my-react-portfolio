@@ -12,10 +12,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-8 mb-2">
-        From my childhood on i was fascinated by design and colors. I always looked up to my father who is an artist and self employed graphic designer for ecommerce.</p>
+        From my childhood on i was fascinated by design and colors. I always looked up to my father who is an artist and self employed graphic designer.</p>
 
         <p className="text-xl mt-2 mb-2">2020 i founded a company with my business partner. The company is focused on selling configurable sports equipment and accessories.
-        During this time i've learned a lot about ecommerce, designing and creating an online shop, sales, marketing aswell as many other nescessary things to 
+        During this time i've learned a lot about eCommerce, designing and creating an online shop, sales, marketing aswell as many other nescessary things to 
         operate a successful online business.</p>
 
         <p className="text-xl mt-2 mb-2">On my journey towards professional self-realization, I left the company at the end of 2022 to start my carreer as web developer.
@@ -23,7 +23,7 @@ const About = () => {
         To be truly honest.. i kind of felt in love with it.</p>
 
         <p className="text-xl mt-2 mb-2">Web or software developement in general is some kind of art for me, so this is one of the places where i can release my full potential.
-        With every line of code I write, with every graphic I design, with everything I implement, I learn, get better, grow and come step by step closer to make all my ideas come to live.</p>
+        With every line of code I write, with every graphic I design, with everything I implement, I learn, get better, grow and get step by step closer to make all my ideas come to live.</p>
 
         <p className="text-xl mt-2 mb-2">Besides coding I enjoy beeing outside in the nature, travelling, playing the guitar and sometimes play video games.
         Also hanging out with my friends who support me and also feel inspired and motivated from.</p>
